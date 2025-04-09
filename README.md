@@ -1,5 +1,5 @@
 # Проект: Анализ данных с использованием PySpark и ClickHouse
-
+![de_course_task1](https://github.com/user-attachments/assets/88e99936-111f-4877-a9ba-e3aa499620e3)
 ## Содержание
 
 - [Описание](#описание)
@@ -26,5 +26,4 @@
 13. Выполните SQL скрипт в Python, который выведет топ 25 домов, у которых площадь больше 60 кв.м (Airflow).
 
 ## Диаграммы
-![de_course_task1](https://github.com/user-attachments/assets/88e99936-111f-4877-a9ba-e3aa499620e3)
 ![de_course_task1_блок_схема](https://github.com/user-attachments/assets/901ce075-a80b-4b9a-8d73-2da18e465adf)
